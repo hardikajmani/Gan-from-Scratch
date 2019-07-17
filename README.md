@@ -1,4 +1,5 @@
 # gan_from_scratch
+# GAN from Scratch
 
 **STATUS: COMPLETE**
 1.  The code is written by using just one library - numpy.
