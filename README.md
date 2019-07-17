@@ -1,4 +1,4 @@
-# gan_from_scratch
+
 # GAN from Scratch
 
 **STATUS: COMPLETE**
